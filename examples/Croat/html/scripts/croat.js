@@ -94,6 +94,9 @@ $(function() {
       stopLogger();
       startLogger();
       $("#start").text("Stop"); 
+      
+      var img = document.getElementById("croatImg");
+      img.classList.add("img360");
   };
   
   function stopMining() {
@@ -101,6 +104,8 @@ $(function() {
       $("#start").text("Start");
       $('#hashes-per-second').text("0");
 	    $('#accepted-shares').text("0" +' | '+"0");
+      var img = document.getElementById("croatImg");
+      img.classList.remove("img360");
 	    localStorage.removeItem('minerEnd'); 
 	    location.reload(); 
   };
