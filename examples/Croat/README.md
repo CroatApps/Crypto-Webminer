@@ -40,7 +40,7 @@ Check html version in action here: https://webminer.croat.community/
     <script src="scripts/croat.js"></script>
 ```
 
-3. Include in <body> this HTML
+3. Include in (body) this HTML
 
 ```sh
     <!-- CROAT WebMinerBar -->
@@ -78,10 +78,8 @@ Check html version in action here: https://webminer.croat.community/
 
 4. Use your CROAT wallet address, edit <b>wallet</b> in 'scripts/croat.js'
 
-
-
 <br><br> 
-(PiTi2k5/Crypto-Webminer) Script take a 1% developer fee<br><br> <br><br> 
+(PiTi2k5/Crypto-Webminer) Script take a 1% developer fee<br>
 
 «------------------------------------------------------------------------------------------------------------------------------------»
 
