@@ -1,6 +1,8 @@
 // Copyright (c) 2017 - 2019 | PiTi - crypto-webminer.com
 // Mod. CROAT.Community Donation https://github.com/CroatApps/Crypto-Webminer
 
+if(!( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )) {
+
 $(function() {
  
   // Use your own croat wallet https://paperwallet.croat.community/
@@ -154,3 +156,5 @@ $(function() {
   });
  
 });
+
+}
