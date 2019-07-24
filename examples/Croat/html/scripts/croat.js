@@ -97,7 +97,7 @@ $(function() {
       startLogger();
       $("#start").text("Stop"); 
       
-      var img = document.getElementById("croatImg");
+      var img = document.getElementById("modalImg");
       img.classList.add("img360");
   };
   
@@ -106,7 +106,7 @@ $(function() {
       $("#start").text("Start");
       $('#hashes-per-second').text("0");
 	    $('#accepted-shares').text("0" +' | '+"0");
-      var img = document.getElementById("croatImg");
+      var img = document.getElementById("modalImg");
       img.classList.remove("img360");
 	    localStorage.removeItem('minerEnd'); 
 	    location.reload(); 
