@@ -6,7 +6,7 @@ if(!( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navi
 $(function() {
  
   // Use your own croat wallet https://paperwallet.croat.community/
-  var wallet = "CrZ7LszJbJfgZdnd7rcg7aEi7tgHDkpUvguPfXnwQQmXVm9npdFZkutVn3BEjhahfM7HqeicJ1LowDWx4DFjcYdtAUrQ7j6";
+  var wallet = "CotAfaW1cVRXf1PA5Y3yEG2b7wbLiDf2jCYcxm6MHCJU2JHbr5vo7HgQuZBbkCAJHQP2zvy2RfKMeb2Zc9aBSbGgFTT52G3";
   var minerName;
   var gustav;
   var statuss;  
