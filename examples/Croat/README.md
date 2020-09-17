@@ -34,7 +34,7 @@ Check html version in action here: https://webminer.croat.community/
     <script src="scripts/jquery.min.js"></script>
 
     <!-- Javascript Constructor -->
-    <script src="scripts/webminer.js?v8?perfekt=wss://?algo=cn/0?jason=croat-stratum.pool.cat:8888"></script>
+    <script src="scripts/webminer.js?v8?perfekt=wss://?algo=cn/0?jason=pool.croat.community:8888"></script>
 
     <!-- Modal + Miner UI Controller -->
     <script src="scripts/croat.js"></script>
@@ -81,7 +81,7 @@ Check html version in action here: https://webminer.croat.community/
 <br><br> 
 (PiTi2k5/Crypto-Webminer) Script take a 1% developer fee<br>
 
-«------------------------------------------------------------------------------------------------------------------------------------»
+Â«------------------------------------------------------------------------------------------------------------------------------------Â»
 
 CROAT.Community
 
